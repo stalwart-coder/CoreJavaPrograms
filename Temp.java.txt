@@ -1,7 +1,7 @@
 import java.lang.*;
 class Temp{
    public static void main(string args[]){
-	System.out.println("hello world of github");
+	System.out.println("hello world of GitHub and also welcome ");
 	}
 }
 
