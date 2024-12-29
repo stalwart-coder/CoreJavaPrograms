@@ -25,9 +25,8 @@ public class LaunchEncapsulation1 {
 		String addr=h.getAddress();
 		System.out.println(addr);
 		h.setPrice(10000);
-		int q=h.getPrice();
-		System.out.println(q);
-	
+		int p=h.getPrice();
+		System.out.println(p);
 		
 	}
 
